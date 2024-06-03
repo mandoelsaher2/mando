@@ -27,7 +27,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/VeGaZoRo/VeGa"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mandoelsaher2/mando"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -45,7 +45,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𓏺ᴍᴀɴᴅᴏ 𓏺ᴇʟsᴀʜᴇʀ](https://t.me/toxvega) AND [ᴢᴇꝛօ>_ᴠᴇɢᴧ](https://t.me/topvega)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𓏺ᴍᴀɴᴅᴏ 𓏺ᴇʟsᴀʜᴇʀ](https://t.me/l_l_kl) AND [ᴢᴇꝛօ>_ᴠᴇɢᴧ](https://t.me/topvega)_ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
 
